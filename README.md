@@ -42,8 +42,20 @@ HashRouter(
 install.packages("reactRouter")
 ```
 
-### More tutorials
+### Example
+
+Get started with a showcase example:
+
+``` r
+# print all examples available: reactRouterExample()
+reactRouterExample("basic")
+```
 
 Read the vignette
 [here](https://felixluginbuhl.com/reactRouter/articles/introduction.html)
 for detailed use cases with Quarto and R Shiny.
+
+### Contribute
+
+Would you like to contribute to the package? Have a look at the current
+[roadmap](https://github.com/users/lgnbhl/projects/2/views/1).
